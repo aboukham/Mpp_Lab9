@@ -1,4 +1,4 @@
-package lab9.part1.prob1.dataaccess;
+package part1.prob1.dataaccess;
 
 import java.io.Serializable;
 

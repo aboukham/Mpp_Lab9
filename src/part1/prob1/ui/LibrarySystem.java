@@ -1,4 +1,7 @@
-package lab9.part1.prob1.ui;
+package part1.prob1.ui;
+
+import part1.prob1.business.ControllerInterface;
+import part1.prob1.business.SystemController;
 
 import java.awt.GridLayout;
 import java.awt.event.ActionEvent;
@@ -15,8 +18,7 @@ import javax.swing.JMenuBar;
 import javax.swing.JMenuItem;
 import javax.swing.JPanel;
 
-import lab9.part1.prob1.business.ControllerInterface;
-import lab9.part1.prob1.business.SystemController;
+
 
 
 public class LibrarySystem extends JFrame implements LibWindow {

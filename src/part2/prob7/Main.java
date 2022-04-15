@@ -1,4 +1,4 @@
-package lab9.part2.prob7;
+package part2.prob7;
 
 import java.util.*;
 import java.util.function.*;

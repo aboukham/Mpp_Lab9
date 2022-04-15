@@ -1,13 +1,13 @@
-package lab9.part1.prob1.dataaccess;
+package part1.prob1.dataaccess;
 
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
 
-import lab9.part1.prob1.business.Address;
-import lab9.part1.prob1.business.Author;
-import lab9.part1.prob1.business.Book;
-import lab9.part1.prob1.business.LibraryMember;
+import part1.prob1.business.Address;
+import part1.prob1.business.Author;
+import part1.prob1.business.Book;
+import part1.prob1.business.LibraryMember;
 //import lesson9.labs.prob1.business.*;
 
 

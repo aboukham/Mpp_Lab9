@@ -1,4 +1,4 @@
-package lab9.part2.prob10b;
+package part2.prob10b;
 
 import java.util.stream.Collectors;
 import java.util.stream.Stream;

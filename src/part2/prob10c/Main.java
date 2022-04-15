@@ -1,4 +1,4 @@
-package lab9.part2.prob10c;
+package part2.prob10c;
 
 import java.util.IntSummaryStatistics;
 import java.util.stream.Collectors;

@@ -1,4 +1,4 @@
-package lab9.part1.prob4;
+package part1.prob4;
 
 import java.util.Optional;
 import java.util.function.Function;

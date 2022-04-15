@@ -1,10 +1,12 @@
-package lab9.part1.prob1.business;
+package part1.prob1.business;
+
+import part1.prob1.dataaccess.DataAccess;
+import part1.prob1.dataaccess.DataAccessFacade;
 
 import java.util.*;
 import java.util.stream.Collectors;
 
-import lab9.part1.prob1.dataaccess.DataAccess;
-import lab9.part1.prob1.dataaccess.DataAccessFacade;
+
 
 
 public class Main {

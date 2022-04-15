@@ -1,4 +1,4 @@
-package lab9.part2.prob8;
+package part2.prob8;
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Optional;

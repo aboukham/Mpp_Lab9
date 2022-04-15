@@ -1,4 +1,7 @@
-package lab9.part1.prob1.ui;
+package part1.prob1.ui;
+
+import part1.prob1.business.ControllerInterface;
+import part1.prob1.business.SystemController;
 
 import java.awt.BorderLayout;
 import java.awt.FlowLayout;
@@ -8,9 +11,6 @@ import javax.swing.JButton;
 import javax.swing.JFrame;
 import javax.swing.JLabel;
 import javax.swing.JPanel;
-
-import lab9.part1.prob1.business.ControllerInterface;
-import lab9.part1.prob1.business.SystemController;
 
 
 public class AllMemberIdsWindow extends JFrame implements LibWindow {

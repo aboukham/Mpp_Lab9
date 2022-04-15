@@ -1,4 +1,4 @@
-package lab9.part2.prob9;
+package part2.prob9;
 
 import java.util.function.Function;
 import java.util.stream.Collectors;

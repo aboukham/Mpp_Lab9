@@ -1,4 +1,4 @@
-package lab9.part2.prob11b;
+package part2.prob11b;
 
 import java.util.Comparator;
 import java.util.List;

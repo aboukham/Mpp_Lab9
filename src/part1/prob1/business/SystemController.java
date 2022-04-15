@@ -1,14 +1,13 @@
-package lab9.part1.prob1.business;
+package part1.prob1.business;
 
 import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.List;
 
-//import lesson9.labs.prob1.business.Book;
-import lab9.part1.prob1.dataaccess.Auth;
-import lab9.part1.prob1.dataaccess.DataAccess;
-import lab9.part1.prob1.dataaccess.DataAccessFacade;
-import lab9.part1.prob1.dataaccess.User;
+import part1.prob1.dataaccess.Auth;
+import part1.prob1.dataaccess.DataAccess;
+import part1.prob1.dataaccess.DataAccessFacade;
+import part1.prob1.dataaccess.User;
 
 public class SystemController implements ControllerInterface {
 	public static Auth currentAuth = null;

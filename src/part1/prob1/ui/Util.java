@@ -1,4 +1,4 @@
-package lab9.part1.prob1.ui;
+package part1.prob1.ui;
 
 import java.awt.Color;
 import java.awt.Component;

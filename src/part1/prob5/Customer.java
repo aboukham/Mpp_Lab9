@@ -1,4 +1,4 @@
-package lab9.part1.prob5;
+package part1.prob5;
 
 public class Customer {
 	private String name;

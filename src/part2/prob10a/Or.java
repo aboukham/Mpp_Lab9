@@ -1,4 +1,4 @@
-package lab9.part2.prob10a;
+package part2.prob10a;
 
 import java.util.*;
 

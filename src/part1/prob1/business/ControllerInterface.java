@@ -1,4 +1,4 @@
-package lab9.part1.prob1.business;
+package part1.prob1.business;
 
 import java.util.List;
 

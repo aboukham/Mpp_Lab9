@@ -1,4 +1,4 @@
-package lab9.part2.prob11a;
+package part2.prob11a;
 
 
 

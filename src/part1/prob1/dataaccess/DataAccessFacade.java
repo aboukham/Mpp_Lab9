@@ -1,6 +1,7 @@
-package lab9.part1.prob1.dataaccess;
-import lab9.part1.prob1.business.Book;
-import lab9.part1.prob1.business.LibraryMember;
+package part1.prob1.dataaccess;
+
+import part1.prob1.business.Book;
+import part1.prob1.business.LibraryMember;
 
 import java.io.IOException;
 import java.io.ObjectInputStream;
@@ -30,7 +31,7 @@ public class DataAccessFacade implements DataAccess {
 	
 	
 	@SuppressWarnings("unchecked")
-	public  HashMap<String,Book> readBooksMap() {
+	public  HashMap<String, Book> readBooksMap() {
 		//Returns a Map with name/value pairs being
 		//   isbn -> Book
 		return (HashMap<String, Book>) readFromStorage(StorageType.BOOKS);

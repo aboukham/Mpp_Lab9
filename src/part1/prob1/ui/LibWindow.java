@@ -1,4 +1,4 @@
-package lab9.part1.prob1.ui;
+package part1.prob1.ui;
 
 public interface LibWindow {
 	void init();

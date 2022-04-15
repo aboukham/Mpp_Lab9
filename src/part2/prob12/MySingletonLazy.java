@@ -1,4 +1,4 @@
-package lab9.part2.prob12;
+package part2.prob12;
 
 import java.util.Optional;
 
